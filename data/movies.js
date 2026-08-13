@@ -1,8 +1,1 @@
-const moviesData = [
-    {
-        "name": "",
-        "releasedate": "",
-        "genre": "",
-        "rating": ""
-    }
-]
+const moviesData = [];

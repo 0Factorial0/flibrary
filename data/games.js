@@ -1,9 +1,1 @@
-const gamesData = [
-    {
-        "name": "",
-        "releasedate": "",
-        "type": "",
-        "genre": "",
-        "rating": ""
-    }
-]
+const gamesData = [];
