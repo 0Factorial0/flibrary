@@ -2,20 +2,20 @@
   "name": "Dexter",
   "releasedate": "2013",
   "issues": "TPB",
-  "type": "Serial",
+  "type": "Oneshot",
   "genre": "Crime",
   "rating": "8.5"
 },
 {
-  "name": "Dexter Down Under",
+  "name": "Dexter / Down Under",
   "releasedate": "2014",
   "issues": "TPB",
-  "type": "Serial",
+  "type": "Oneshot",
   "genre": "Crime",
   "rating": "8.2"
 },
 {
-  "name": "The Walking Dead 10th Anniversary",
+  "name": "The Walking Dead / 10th Anniversary",
   "releasedate": "2013",
   "issues": "#1",
   "type": "Event",
@@ -23,324 +23,324 @@
   "rating": "7.8"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2003",
   "issues": "#1",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "9.0"
+  "rating": "9.9"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2003",
   "issues": "#2",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2003",
   "issues": "#3",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#4",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#5",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#6",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#7",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#8",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#9",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#10",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#11",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#12",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#13",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2004",
   "issues": "#14",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#15",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#16",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#17",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#18",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#19",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#20",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#21",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#22",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#23",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2005",
   "issues": "#24",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#25",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#26",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#27",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#28",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#29",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#30",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#31",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#32",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2006",
   "issues": "#33",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#34",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#35",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#36",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#37",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#38",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#39",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
-  "name": "The Walking Dead ",
+  "name": "The Walking Dead",
   "releasedate": "2007",
   "issues": "#40",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.0"
+  "rating": "9.7"
 },
 {
   "name": "Deadpool",
@@ -367,7 +367,7 @@
   "rating": "8.0"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#1",
   "type": "Event",
@@ -375,7 +375,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#2",
   "type": "Event",
@@ -383,7 +383,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#3",
   "type": "Event",
@@ -391,7 +391,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#4",
   "type": "Event",
@@ -399,7 +399,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#5",
   "type": "Event",
@@ -407,7 +407,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#6",
   "type": "Event",
@@ -415,7 +415,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Dracula's Gauntlet",
+  "name": "Deadpool / Dracula's Gauntlet",
   "releasedate": "2014",
   "issues": "#7",
   "type": "Event",
@@ -423,7 +423,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Art of War",
+  "name": "Deadpool / Art of War",
   "releasedate": "2014",
   "issues": "#1",
   "type": "Event",
@@ -431,7 +431,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Art of War",
+  "name": "Deadpool / Art of War",
   "releasedate": "2015",
   "issues": "#2",
   "type": "Event",
@@ -439,7 +439,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Art of War",
+  "name": "Deadpool / Art of War",
   "releasedate": "2015",
   "issues": "#3",
   "type": "Event",
@@ -447,7 +447,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Deadpool Art of War",
+  "name": "Deadpool / Art of War",
   "releasedate": "2015",
   "issues": "#4",
   "type": "Event",
@@ -455,15 +455,15 @@
   "rating": "8.5"
 },
 {
-  "name": "Spider-Man Amazing Fantasy",
+  "name": "Spider-Man / Amazing Fantasy",
   "releasedate": "1962",
   "issues": "#15",
-  "type": "Serial",
+  "type": "Event",
   "genre": "Super Hero",
   "rating": "10"
 },
 {
-  "name": "Spider-Man The Amazing Spider-Man",
+  "name": "Spider-Man / The Amazing Spider-Man",
   "releasedate": "1963",
   "issues": "#1",
   "type": "Serial",
@@ -471,15 +471,15 @@
   "rating": "10"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1975",
   "issues": "#1",
-  "rating": "8.5",
+  "type": "Serial",
   "genre": "Super Hero",
-  "type": "Serial"
+  "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1975",
   "issues": "#2",
   "type": "Serial",
@@ -487,7 +487,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1975",
   "issues": "#3",
   "type": "Serial",
@@ -495,7 +495,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1975",
   "issues": "#4",
   "type": "Serial",
@@ -503,7 +503,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1976",
   "issues": "#5",
   "type": "Serial",
@@ -511,7 +511,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1976",
   "issues": "#6",
   "type": "Serial",
@@ -519,7 +519,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1976",
   "issues": "#7",
   "type": "Serial",
@@ -527,7 +527,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1976",
   "issues": "#8",
   "type": "Serial",
@@ -535,7 +535,7 @@
   "rating": "8.5"
 },
 {
-  "name": "The Joker vol.1",
+  "name": "Joker / The Joker",
   "releasedate": "1976",
   "issues": "#9",
   "type": "Serial",
@@ -543,7 +543,7 @@
   "rating": "8.5"
 },
 {
-  "name": "X-Men Origins - Deadpool",
+  "name": "X-Men / Origins - Deadpool",
   "releasedate": "2010",
   "issues": "#1",
   "type": "Oneshot",
@@ -559,7 +559,7 @@
   "rating": "8.3"
 },
 {
-  "name": "Marvel - Young Marvel",
+  "name": "Marvel / Young Marvel",
   "releasedate": "2013",
   "issues": "#1",
   "type": "Oneshot",
@@ -567,7 +567,7 @@
   "rating": "7.1"
 },
 {
-  "name": "TMNT Origins",
+  "name": "TMNT / Origins",
   "releasedate": "???",
   "issues": "#1",
   "type": "Serial",
@@ -575,7 +575,7 @@
   "rating": "7.6"
 },
 {
-  "name": "TMNT Christmas",
+  "name": "TMNT / Christmas",
   "releasedate": "1990",
   "issues": "#1",
   "type": "Oneshot",
@@ -583,7 +583,7 @@
   "rating": "7.4"
 },
 {
-  "name": "TMNT Origins",
+  "name": "TMNT / Origins",
   "releasedate": "???",
   "issues": "#2",
   "type": "Serial",
@@ -591,7 +591,7 @@
   "rating": "7.6"
 },
 {
-  "name": "TMNT Origins",
+  "name": "TMNT / Origins",
   "releasedate": "???",
   "issues": "#3",
   "type": "Serial",
@@ -599,7 +599,7 @@
   "rating": "7.6"
 },
 {
-  "name": "TMNT Origins",
+  "name": "TMNT / Origins",
   "releasedate": "???",
   "issues": "#4",
   "type": "Serial",
@@ -612,7 +612,7 @@
   "issues": "#1",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.5"
+  "rating": "7.2"
 },
 {
   "name": "The Last of US American Dreams",
@@ -620,7 +620,7 @@
   "issues": "#2",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.5"
+  "rating": "7.2"
 },
 {
   "name": "The Last of US American Dreams",
@@ -628,7 +628,7 @@
   "issues": "#3",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.5"
+  "rating": "7.2"
 },
 {
   "name": "The Last of US American Dreams",
@@ -636,10 +636,10 @@
   "issues": "#4",
   "type": "Serial",
   "genre": "Zombie",
-  "rating": "7.5"
+  "rating": "7.2"
 },
 {
-  "name": "Spider-Man The Amazing Spider-Man",
+  "name": "Spider-Man / The Amazing Spider-Man",
   "releasedate": "1963",
   "issues": "#2",
   "type": "Serial",
@@ -647,7 +647,7 @@
   "rating": "8.5"
 },
 {
-  "name": "Spider-Man The Amazing Spider-Man",
+  "name": "Spider-Man / The Amazing Spider-Man",
   "releasedate": "1963",
   "issues": "#3",
   "type": "Serial",
@@ -655,7 +655,7 @@
   "rating": "9.0"
 },
 {
-  "name": "Spider-Man The Amazing Spider-Man",
+  "name": "Spider-Man / The Amazing Spider-Man",
   "releasedate": "1963",
   "issues": "#4",
   "type": "Serial",
@@ -663,7 +663,7 @@
   "rating": "9.2"
 },
 {
-  "name": "Spider-Man The Amazing Spider-Man",
+  "name": "Spider-Man / The Amazing Spider-Man",
   "releasedate": "1963",
   "issues": "#5",
   "type": "Serial",
@@ -671,7 +671,7 @@
   "rating": "9.5"
 },
 {
-  "name": "Regular Show Spring Equinot",
+  "name": "Regular Show / Spring Equinot",
   "releasedate": "2015",
   "issues": "#1",
   "type": "Oneshot",
@@ -679,13 +679,7917 @@
   "rating": "7.5"
 },
 {
-  "name": "Superman Action Comics",
+  "name": "Superman / Action Comics",
   "releasedate": "1938",
   "issues": "#1",
-  "type": "Serial",
+  "type": "Event",
   "genre": "Super Hero",
   "rating": "8.0"
 },
+{
+  "name": "Batman / Year One",
+  "releasedate": "2005",
+  "issues": "TPB",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "10"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2007",
+  "issues": "#41",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2007",
+  "issues": "#42",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2007",
+  "issues": "#43",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2007",
+  "issues": "#44",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2007",
+  "issues": "#45",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#46",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#47",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#48",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#49",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#50",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#51",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#52",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#53",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#54",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#55",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2008",
+  "issues": "#56",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#57",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#58",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#59",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#60",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#61",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#62",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#63",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#64",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#65",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#66",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#67",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2009",
+  "issues": "#68",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#69",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#70",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#71",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#72",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#73",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#74",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#75",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#76",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#77",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#78",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#79",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2010",
+  "issues": "#80",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "X-Men / Origins - Iceman",
+  "releasedate": "2009",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.5"
+},
+{
+  "name": "X-Men / Origins - Cyclops",
+  "releasedate": "2010",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.8"
+},
+{
+  "name": "X-Men / Origins - Nightcrawler",
+  "releasedate": "2010",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "X-Men / Origins - Sabretooth",
+  "releasedate": "2009",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.4"
+},
+{
+  "name": "X-Men / Origins - Wolverine",
+  "releasedate": "2009",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.4"
+},
+{
+  "name": "X-Men / Origins - Colossus",
+  "releasedate": "2008",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.6"
+},
+{
+  "name": "X-Men / Origins - Gambit",
+  "releasedate": "2009",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.3"
+},
+{
+  "name": "Joker / Killer Smile",
+  "releasedate": "2019",
+  "issues": "#1",
+  "type": "Event",
+  "genre": "Psychological Horror",
+  "rating": "9.0"
+},
+{
+  "name": "Joker / Killer Smile",
+  "releasedate": "2020",
+  "issues": "#2",
+  "type": "Event",
+  "genre": "Psychological Horror",
+  "rating": "9.4"
+},
+{
+  "name": "Joker / Killer Smile",
+  "releasedate": "2020",
+  "issues": "#3",
+  "type": "Event",
+  "genre": "Psychological Horror",
+  "rating": "9.6"
+},
+{
+  "name": "Deadpool / Baby's First Deadpool Book",
+  "releasedate": "1998",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.0"
+},
+{
+  "name": "Deadpool / Games of Death",
+  "releasedate": "2009",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "7.7"
+},
+{
+  "name": "Iron-Man / Tales of Suspense",
+  "releasedate": "1959",
+  "issues": "#39",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#81",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#82",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#83",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#84",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#85",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#86",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#87",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#88",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#89",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#90",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#91",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2011",
+  "issues": "#92",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#93",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#94",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#95",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#96",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "Spider-Man / Death of Spider-Man",
+  "releasedate": "2011",
+  "issues": "#1",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "Spider-Man / Death of Spider-Man",
+  "releasedate": "2011",
+  "issues": "#2",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "Spider-Man / Death of Spider-Man",
+  "releasedate": "2011",
+  "issues": "#3",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "Spider-Man / Death of Spider-Man",
+  "releasedate": "2011",
+  "issues": "#4",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "Spider-Man / Death of Spider-Man",
+  "releasedate": "2011",
+  "issues": "#5",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "7.2"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#97",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#98",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#99",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#100",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#101",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#102",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#103",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#104",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2012",
+  "issues": "#105",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#106",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#107",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#108",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#109",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#110",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#111",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#112",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#113",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#114",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2013",
+  "issues": "#115",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#116",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#117",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#118",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#119",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#120",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#121",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#122",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#123",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#124",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#125",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#126",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#127",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#128",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#129",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#130",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#131",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#132",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#133",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#134",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2014",
+  "issues": "#135",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#136",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#137",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#138",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#139",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#140",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#141",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#142",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#143",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#144",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#145",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#146",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#147",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#148",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2015",
+  "issues": "#149",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#150",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#151",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#152",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#153",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#154",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#155",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#156",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#157",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#158",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#159",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#160",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2016",
+  "issues": "#161",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#162",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#163",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#164",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#165",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#166",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#167",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#168",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#169",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#170",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#171",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#172",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#173",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2017",
+  "issues": "#174",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#175",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#176",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#177",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#178",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#179",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#180",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#181",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#182",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#183",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#184",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#185",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2018",
+  "issues": "#186",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#187",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#188",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#189",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#190",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#191",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#192",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "The Walking Dead",
+  "releasedate": "2019",
+  "issues": "#193",
+  "type": "Serial",
+  "genre": "Zombie",
+  "rating": "9.7"
+},
+{
+  "name": "Fantastic Four / Season One",
+  "releasedate": "2011",
+  "issues": "#1",
+  "type": "Oneshot",
+  "genre": "Super Hero",
+  "rating": "8.5"
+},
+{
+  "name": "The Flash / Showcase",
+  "releasedate": "1956",
+  "issues": "#4",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "8.8"
+},
+{
+  "name": "Deadpool / Return of The Living Deadpool",
+  "releasedate": "2015",
+  "issues": "#1",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "9.2"
+},
+{
+  "name": "Deadpool / Return of The Living Deadpool",
+  "releasedate": "2015",
+  "issues": "#2",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "9.2"
+},
+{
+  "name": "Deadpool / Return of The Living Deadpool",
+  "releasedate": "2015",
+  "issues": "#3",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "9.2"
+},
+{
+  "name": "Deadpool / Return of The Living Deadpool",
+  "releasedate": "2015",
+  "issues": "#4",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "9.2"
+},
+{
+  "name": "Bat-Man / Detective Comics",
+  "releasedate": "1939",
+  "issues": "#27",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "9.5"
+},
+{
+  "name": "Batman / Detective Comics",
+  "releasedate": "2007",
+  "issues": "#826",
+  "type": "Event",
+  "genre": "Super Hero",
+  "rating": "10"
+},
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+  "name": "",
+  "releasedate": "",
+  "issues": "",
+  "type": "",
+  "genre": "",
+  "rating": ""
+},
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
+{
+        "name": "",
+        "releasedate": "",
+        "issues": "",
+        "type": "",
+        "genre": "",
+        "rating": ""
+    },
 {
         "name": "",
         "releasedate": "",

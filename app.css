@@ -23,9 +23,14 @@ li.marker::marker{
 table{
     width: auto;
     border-collapse: collapse;
+    margin-bottom: 7px;
 }
 
 td{
     padding: 8px 12px;
     border: 1px solid black;
+}
+mainframe{
+    hacked: true;
+    password: admin123456;
 }

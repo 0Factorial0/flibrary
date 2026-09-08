@@ -1,4 +1,4 @@
-const gamesData = [
+const booksData = [
   {
     "name": "test",
     "releasedate": "test",

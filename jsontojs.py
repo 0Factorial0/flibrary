@@ -26,3 +26,4 @@ convert_json_to_js_array("./data/json/games.json", "./data/games.js", "gamesData
 convert_json_to_js_array("./data/json/comics.json", "./data/comics.js", "comicsData")
 convert_json_to_js_array("./data/json/movies.json", "./data/movies.js", "moviesData")
 convert_json_to_js_array("./data/json/series.json", "./data/series.js", "seriesData")
+convert_json_to_js_array("./data/json/books.json", "./data/books.js", "booksData")

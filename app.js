@@ -2,11 +2,17 @@
 async function renderJson(listID, dataArray) {
   //Sort Array
   dataArray.sort((a,b) => {
-    //Sort By Name
+    //Sort Everything By Name
     const nameComparison = a.name.localeCompare(b.name);
+    //-1: a Comes First
+    //0: Both Are Same
+    //1: b Comes First
+    //console.log(nameComparison, a.name, b.name);
+    //if Names Are Not Same Return
     if(nameComparison !== 0){
       return nameComparison;
     }
+    //if Names Are Same
     //Sort By Issue Number
     const numA = parseInt(a.issues.replace("#", ""), 10);
     const numB = parseInt(b.issues.replace("#", ""), 10);
@@ -35,3 +41,5 @@ renderJson('gamelist', gamesData);
 renderJson('comiclist', comicsData);
 renderJson('movielist', moviesData);
 renderJson('serielist', seriesData);
+renderJson('booklist', booksData);
+//coding since 9183
