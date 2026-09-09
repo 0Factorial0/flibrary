@@ -408,7 +408,6 @@
                 let dt = (currentTime - lastTime) / 1000;
                 if (dt > 0.1) dt = 0.016;
                 lastTime = currentTime;
-                
                 if (audioInitialized && analyser) {
                     analyser.getByteFrequencyData(audioDataArray);
                     let sum = 0;
