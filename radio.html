@@ -408,6 +408,7 @@
                 let dt = (currentTime - lastTime) / 1000;
                 if (dt > 0.1) dt = 0.016;
                 lastTime = currentTime;
+                
                 if (audioInitialized && analyser) {
                     analyser.getByteFrequencyData(audioDataArray);
                     let sum = 0;
@@ -416,10 +417,11 @@
                 } else {
                     currentBass = 0;
                 }
-                globalTime += 0.012 + currentBass * 0.01;
-                rotationAngle += 0.006 + currentBass * 0.005;
-                let dynamicHue = (globalTime * 0.02 * 60 + currentBass * 90) % 360;
-                let rgb = hslToRgb(dynamicHue / 360, 1.0, 0.58 + currentBass * 0.08);
+                globalTime += dt * (0.8 + currentBass * 0.2);
+                rotationAngle += dt * (0.4 + currentBass * 0.1);
+                let bassEffect = Math.min(currentBass, 0.5); // Bass etkisini tavan sınırlamasına sokun
+                let dynamicHue = (globalTime * 15 + bassEffect * 30) % 360;
+                let rgb = hslToRgb(dynamicHue / 360, 1.0, 0.58 + bassEffect * 0.05);
                 document.getElementById('mainTitle').style.color = `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
                 document.querySelector('.embed-block .main-container').style.borderColor = `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
                 renderMainCanvas(mainCtx, mainImgData, mainBuffer, 160, rgb, dt);
