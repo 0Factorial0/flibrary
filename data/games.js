@@ -889,7 +889,7 @@ const gamesData = [
     "rating": "8.6"
   },
   {
-    "name": "Falllout 3",
+    "name": "Fallout 3",
     "releasedate": "2008",
     "type": "AAA",
     "genre": "Open World",
