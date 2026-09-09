@@ -41,8 +41,8 @@ async function renderJson(listID, dataArray) {
 }
 //Use Data To Load The Lists
 renderJson('gamelist', gamesData);
-renderJson('comiclist', comicsData);
 renderJson('movielist', moviesData);
 renderJson('serielist', seriesData);
+renderJson('comiclist', comicsData);
 renderJson('booklist', booksData);
 //coding since 9183

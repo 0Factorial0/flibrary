@@ -1,4 +1,1 @@
-1. sorting by anything
-2. fonts
-3. background
-4. normal version / new version flip switch
+clear
