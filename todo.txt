@@ -1,6 +1,5 @@
 1. sorting by anything
 2. embed radiogarden and windows media player battery animations
-3. adding shit more easily with custom software instead of json table editor
-4. fonts
-5. background
-6. normal version / new version flip switch
+3. fonts
+4. background
+5. normal version / new version flip switch

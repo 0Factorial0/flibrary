@@ -13,7 +13,10 @@ async function renderJson(listID, dataArray) {
       return nameComparison;
     }
     //if Names Are Same
-    //Sort By Issue Number
+    //Sort By Issue Number When Available
+    if (a.issues === undefined || b.issues === undefined) {
+      return 0;
+    }
     const numA = parseInt(a.issues.replace("#", ""), 10);
     const numB = parseInt(b.issues.replace("#", ""), 10);
     return numA - numB;
