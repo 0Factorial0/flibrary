@@ -418,7 +418,7 @@
                 }
                 globalTime += dt * (0.8 + currentBass * 0.2);
                 rotationAngle += dt * (0.4 + currentBass * 0.1);
-                let bassEffect = Math.min(currentBass, 0.5); // Bass etkisini tavan sınırlamasına sokun
+                let bassEffect = Math.min(currentBass, 0.5);
                 let dynamicHue = (globalTime * 15 + bassEffect * 30) % 360;
                 let rgb = hslToRgb(dynamicHue / 360, 1.0, 0.58 + bassEffect * 0.05);
                 document.getElementById('mainTitle').style.color = `rgb(${rgb[0]}, ${rgb[1]}, ${rgb[2]})`;
