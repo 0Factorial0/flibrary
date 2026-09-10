@@ -290,15 +290,15 @@
             }
             scheduleNextTransition();
             function getMaskValue(mode, dx, dy, dist, angle) {
-                if (mode === 5 || mode === 36 || mode === 37) {
-                    let torusRad = 0.4 - currentBass * 0.03;
+                if (mode === 6 || mode === 37 || mode === 38) {
+                    let torusRad = 0.4 - currentBass * 0.01;
                     let ringDist = Math.abs(dist - torusRad);
                     let wave = Math.sin(angle * 9.0 + globalTime * 2.5) * 0.08;
                     let val = Math.max(0, 1.0 - (ringDist + wave) * 4.0);
                     return val > 0.05 ? 1.0 : 0.0;
                 }
-                if (mode === 21 || mode === 44 || mode === 45) {
-                    let eventDist = Math.abs(dist - (0.25 - currentBass * 0.02));
+                if (mode === 22 || mode === 45 || mode === 46) {
+                    let eventDist = Math.abs(dist - (0.25 - currentBass * 0.01));
                     let spiralWave = Math.sin(angle * 6.5 + 1.0 / (eventDist + 0.05) - globalTime * 2.0);
                     let val = Math.max(0, spiralWave) * (1.4 - dist);
                     return val > 0.15 ? 1.0 : 0.0;
@@ -307,13 +307,9 @@
             }
             function getDensity(mode, dx, dy, dist, angle) {
                 let density = 0;
-                let t = globalTime * (1.2 + currentBass * 0.4);
-                let modDist = dist * (1.0 - currentBass * 0.05);
-                
-                let hash = (mode * 9301 + 49297) % 233280 / 233280;
-                let variant = Math.floor(hash * 6);
-
-                switch(variant) {
+                let t = globalTime * (1.2 + currentBass * 0.15);
+                let modDist = dist * (1.0 - currentBass * 0.02);
+                switch(mode) {
                     case 0: {
                         let u = Math.cos(angle + rotationAngle * 1.5 + 2.0 / (modDist + 0.1)) * modDist;
                         let v = Math.sin(angle + rotationAngle * 1.5 + 2.0 / (modDist + 0.1)) * modDist;
@@ -341,16 +337,280 @@
                         break;
                     }
                     case 4: {
-                        let wave = Math.sin(dist * 12.0 - t * 3.0 + angle * 3.0);
-                        let u = dx * (1.0 + wave * 0.2);
-                        let v = dy * (1.0 + wave * 0.2);
+                        let pathX = Math.sin(t * 0.5) * 0.6;
+                        let pathY = Math.cos(t * 0.4) * 0.6;
+                        let pdx = dx - pathX;
+                        let pdy = dy - pathY;
+                        let pDist = Math.sqrt(pdx * pdx + pdy * pdy);
+                        let pAngle = Math.atan2(pdy, pdx);
+                        let u = Math.cos(pAngle + pDist * 3.5 - t * 1.5) * pDist;
+                        let v = Math.sin(pAngle + pDist * 3.5 - t * 1.5) * pDist;
+                        density = (simplex.fbm(u * 3.2, v * 3.2, t * 0.4) + 0.5) * (1.5 - pDist);
+                        break;
+                    }
+                    case 5: {
+                        let refrX = dx + Math.sin(dy * 12.0 + t * 2.0) * 0.05;
+                        let refrY = dy + Math.cos(dx * 12.0 + t * 2.0) * 0.05;
+                        let n = simplex.fbm(refrX * 4.5, refrY * 4.5, t * 0.4, 3);
+                        density = (Math.sin(n * (11.0 + currentBass * 1.5)) * 0.5 + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 6: {
+                        let torusRad = 0.4 - currentBass * 0.03;
+                        let ringDist = Math.abs(modDist - torusRad);
+                        let wave = Math.sin(angle * 9.0 + t * 2.5) * 0.08;
+                        density = Math.max(0, 1.0 - (ringDist + wave) * 4.0);
+                        break;
+                    }
+                    case 7: {
+                        let u = dx, v = dy;
+                        for(let i=0; i<2; i++) {
+                            let nextU = u*u - v*v + dx * 0.4;
+                            let nextV = 2.0*u*v + dy * 0.4;
+                            u = nextU; v = nextV;
+                        }
+                        density = (simplex.fbm(u * 2.0, v * 2.0, t * 0.3, 3) + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 8: {
+                        let tunnelSpeed = t * 2.5;
+                        let z = (1.0 / (modDist + 0.02)) - tunnelSpeed;
+                        let ray = Math.sin(angle * 14.0 + z * 0.5);
+                        density = Math.max(0, ray) * Math.min(1.0, modDist * 1.5);
+                        break;
+                    }
+                    case 9: {
+                        let w1 = Math.sin(modDist * 20.0 - t * 3.0);
+                        let w2 = Math.sin((dx * 9.0 + dy * 9.0) + t * 2.5);
+                        let w3 = Math.cos(angle * 7.0 - t * 2.0);
+                        density = ((w1 + w2 + w3) / 3.0 + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 10: {
+                        let projY = dy / (modDist + 0.2);
+                        let projX = dx / (modDist + 0.2);
+                        let grid = Math.sin(projX * 16.0 + t * 2.0) * Math.sin(projY * 16.0 + t * 2.0);
+                        density = Math.pow(Math.max(0, grid), 2.0) * (1.3 - modDist);
+                        break;
+                    }
+                    case 11: {
+                        let n1 = simplex.fbm(dx * 5.5, dy * 5.5, t * 1.5, 3);
+                        let arc = Math.abs(Math.sin((n1 + angle) * 9.0));
+                        density = Math.pow(1.0 - arc, 4.0) * (1.2 - modDist);
+                        break;
+                    }
+                    case 12: {
+                        let qx = Math.floor(dx * 12) / 12;
+                        let qy = Math.floor(dy * 12) / 12;
+                        density = (simplex.fbm(qx * 3.2, qy * 3.2, t * 0.6) + 0.5) * (1.1 - modDist);
+                        break;
+                    }
+                    case 13: {
+                        let cx = Math.abs(dx * 5) % 1.0 - 0.5;
+                        let cy = Math.abs(dy * 5) % 1.0 - 0.5;
+                        density = (1.0 - Math.sqrt(cx*cx + cy*cy)) * (Math.sin(t * 1.2 + modDist * 5.5) * 0.5 + 0.5);
+                        break;
+                    }
+                    case 14: {
+                        let shard = Math.sin(dx * 20.0 + t * 1.5) * Math.cos(dy * 20.0 - t * 1.5);
+                        density = Math.abs(shard) * (1.3 - modDist);
+                        break;
+                    }
+                    case 15: {
+                        let voidDist = Math.abs(modDist - (0.3 - currentBass * 0.02)) + Math.sin(angle * 6 + t * 1.5) * 0.15;
+                        density = 1.0 / (voidDist * 12.0 + 0.4);
+                        break;
+                    }
+                    case 16: {
+                        let wave = Math.sin(modDist * 30.0 - t * 4.0);
+                        density = (wave > 0 ? wave : 0) * (1.2 - modDist);
+                        break;
+                    }
+                    case 17: {
+                        let storm = simplex.fbm(dx * 6.0 + t * 1.0, dy * 6.0 - t * 1.0, t * 0.4, 4);
+                        density = Math.abs(storm) * 2.2 * (1.2 - modDist);
+                        break;
+                    }
+                    case 18: {
+                        let strato = Math.sin(dx * 5.5 + Math.cos(dy * 5.5 + t * 1.5)) * 0.5 + 0.5;
+                        density = strato * (1.4 - modDist);
+                        break;
+                    }
+                    case 19: {
+                        let flare = Math.pow(Math.max(0, Math.cos(angle * 4.5 + t * 2.0)), 4.0);
+                        density = (flare + simplex.fbm(dx * 2.8, dy * 2.8, t * 0.4)) * (1.2 - modDist);
+                        break;
+                    }
+                    case 20: {
+                        let nx = dx * Math.cos(t * 0.3) - dy * Math.sin(t * 0.3);
+                        let ny = dx * Math.sin(t * 0.3) + dy * Math.cos(t * 0.3);
+                        let nval = Math.sin(nx * 13.5) * Math.cos(ny * 13.5) + Math.sin(modDist * 11.0 - t * 2.5);
+                        density = Math.abs(nval) * 0.5 * (1.3 - modDist);
+                        break;
+                    }
+                    case 21: {
+                        let blockX = Math.floor(dx * 8.0 + Math.sin(t * 0.8) * 2.0);
+                        let blockY = Math.floor(dy * 8.0 + Math.cos(t * 0.8) * 2.0);
+                        let glitchNoise = Math.sin(blockX * 12.3 + blockY * 45.6 + t * 3.0);
+                        density = Math.abs(glitchNoise) * (1.2 - modDist);
+                        break;
+                    }
+                    case 22: {
+                        let eventDist = Math.abs(modDist - 0.25);
+                        let spiralWave = Math.sin(angle * 6.5 + 1.0 / (eventDist + 0.05) - t * 2.0);
+                        density = Math.max(0, spiralWave) * (1.4 - modDist);
+                        break;
+                    }
+                    case 23: {
+                        let n = simplex.fbm(dx * 4.0, dy * 4.0, t * 0.8, 4);
+                        density = (Math.sin(n * 15.0 + angle * 3.0) * 0.5 + 0.5) * (1.3 - modDist);
+                        break;
+                    }
+                    case 24: {
+                        let u = dx + Math.sin(t + dy * 4.0) * 0.3;
+                        let v = dy + Math.cos(t + dx * 4.0) * 0.3;
+                        density = (simplex.fbm(u * 5.0, v * 5.0, t * 0.5) + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 25: {
+                        let cx = dx * 4.0 + Math.sin(t * 0.5);
+                        let cy = dy * 4.0 + Math.cos(t * 0.5);
+                        let cell = Math.sin(cx * cy + t);
+                        density = Math.abs(cell) * (1.4 - modDist);
+                        break;
+                    }
+                    case 26: {
+                        let u = Math.cos(angle * 5.0 - t) * modDist;
+                        let v = Math.sin(angle * 5.0 + t) * modDist;
+                        density = (simplex.fbm(u * 4.0, v * 4.0, t * 0.6) + 0.5) * (1.3 - modDist);
+                        break;
+                    }
+                    case 27: {
+                        let turb = simplex.fbm(dx * 7.0, dy * 7.0, t * 1.0, 3);
+                        let ring = Math.sin(modDist * 15.0 + turb * 5.0 - t * 2.0);
+                        density = Math.max(0, ring) * (1.2 - modDist);
+                        break;
+                    }
+                    case 28: {
+                        let shiftX = dx * Math.cos(t * 0.4) - dy * Math.sin(t * 0.4);
+                        let shiftY = dx * Math.sin(t * 0.4) + dy * Math.cos(t * 0.4);
+                        density = (simplex.fbm(shiftX * 6.0, shiftY * 6.0, t * 0.7) * 0.5 + 0.5) * (1.3 - modDist);
+                        break;
+                    }
+                    case 29: {
+                        let gX = Math.floor(dx * 10.0) / 10.0;
+                        let gY = Math.floor(dy * 10.0) / 10.0;
+                        let gl = Math.sin(gX * gY * 50.0 + t * 3.0);
+                        density = Math.abs(gl) * (1.2 - modDist);
+                        break;
+                    }
+                    case 30: {
+                        let d = modDist * 10.0 - t * 2.0;
+                        let wave = Math.sin(d + Math.sin(angle * 8.0) * 2.0);
+                        density = Math.abs(wave) * (1.3 - modDist);
+                        break;
+                    }
+                    case 31: {
+                        let u = Math.cos(angle * 3.0 + t * 0.5) * modDist;
+                        let v = Math.sin(angle * 3.0 - t * 0.5) * modDist;
+                        density = (simplex.fbm(u * 4.0, v * 4.0, t * 0.5) + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 32: {
+                        let tunnelDepth = (1.0 / (modDist + 0.03)) - t * 2.0;
+                        let u = Math.cos(angle * 6) * 0.4 + tunnelDepth * 0.1;
+                        let v = Math.sin(angle * 6) * 0.4 + tunnelDepth * 0.1;
                         density = (simplex.fbm(u * 3.5, v * 3.5, t * 0.5) + 0.5) * (1.3 - modDist);
                         break;
                     }
+                    case 33: {
+                        let coreDist = modDist + Math.sin(angle * 5.0 - t * 2.0) * 0.1;
+                        density = (Math.sin(coreDist * 18.0 - t * 3.0) * 0.5 + 0.5) * (1.3 - modDist);
+                        break;
+                    }
+                    case 34: {
+                        let rad = modDist + Math.sin(angle * 8.0 + t) * 0.15;
+                        let u = Math.cos(angle - t * 0.5) * rad;
+                        let v = Math.sin(angle + t * 0.5) * rad;
+                        density = (simplex.fbm(u * 4.0, v * 4.0, t * 0.6) + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 35: {
+                        let helix = Math.sin(angle * 5.0 + modDist * 12.0 - t * 2.5);
+                        density = Math.max(0, helix) * (1.3 - modDist);
+                        break;
+                    }
+                    case 36: {
+                        let cx = Math.abs(dx * 6.0) % 1.0 - 0.5;
+                        let cy = Math.abs(dy * 6.0) % 1.0 - 0.5;
+                        density = (1.0 - Math.sqrt(cx*cx + cy*cy)) * (Math.cos(t + modDist * 6.0) * 0.5 + 0.5);
+                        break;
+                    }
+                    case 37: {
+                        let torusRad = 0.35 - currentBass * 0.02;
+                        let ringDist = Math.abs(modDist - torusRad);
+                        let wave = Math.cos(angle * 12.0 - t * 3.0) * 0.06;
+                        density = Math.max(0, 1.0 - (ringDist + wave) * 5.0);
+                        break;
+                    }
+                    case 38: {
+                        let u = dx, v = dy;
+                        for(let i=0; i<3; i++) {
+                            let nu = u*u - v*v + dx * 0.3;
+                            let nv = 2.0*u*v + dy * 0.3;
+                            u = nu; v = nv;
+                        }
+                        density = (simplex.fbm(u * 2.5, v * 2.5, t * 0.4) + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 39: {
+                        let warp = (1.0 / (modDist + 0.01)) + t * 3.0;
+                        let ray = Math.sin(angle * 10.0 + warp * 0.4);
+                        density = Math.max(0, ray) * Math.min(1.0, modDist * 1.4);
+                        break;
+                    }
+                    case 40: {
+                        let w1 = Math.cos(modDist * 25.0 - t * 3.5);
+                        let w2 = Math.sin((dx * 8.0 - dy * 8.0) + t * 2.0);
+                        density = ((w1 + w2) / 2.0 + 0.5) * (1.2 - modDist);
+                        break;
+                    }
+                    case 41: {
+                        let projY = dy / (modDist + 0.15);
+                        let projX = dx / (modDist + 0.15);
+                        let grid = Math.cos(projX * 14.0 - t * 2.0) * Math.sin(projY * 14.0 + t * 2.0);
+                        density = Math.pow(Math.max(0, grid), 2.0) * (1.3 - modDist);
+                        break;
+                    }
+                    case 42: {
+                        let n1 = simplex.fbm(dx * 6.0, dy * 6.0, t * 1.2, 3);
+                        let arc = Math.abs(Math.cos((n1 - angle) * 8.0));
+                        density = Math.pow(1.0 - arc, 3.0) * (1.2 - modDist);
+                        break;
+                    }
+                    case 43: {
+                        let qx = Math.floor(dx * 15) / 15;
+                        let qy = Math.floor(dy * 15) / 15;
+                        density = (simplex.fbm(qx * 3.5, qy * 3.5, t * 0.7) + 0.5) * (1.1 - modDist);
+                        break;
+                    }
+                    case 44: {
+                        let shard = Math.cos(dx * 18.0 - t * 1.8) * Math.sin(dy * 18.0 + t * 1.8);
+                        density = Math.abs(shard) * (1.3 - modDist);
+                        break;
+                    }
+                    case 45: {
+                        let voidDist = Math.abs(modDist - 0.35) + Math.cos(angle * 5 - t * 1.5) * 0.1;
+                        density = 1.0 / (voidDist * 10.0 + 0.3);
+                        break;
+                    }
+                    case 46: {
+                        let wave = Math.cos(modDist * 25.0 + t * 3.0);
+                        density = (wave > 0 ? wave : 0) * (1.2 - modDist);
+                        break;
+                    }
                     default: {
-                        let u = Math.cos(angle - rotationAngle * 2.0) * modDist * 2.0;
-                        let v = Math.sin(angle - rotationAngle * 2.0) * modDist * 2.0;
-                        density = (simplex.fbm(u * 2.5, v * 2.5, -t * 0.5) + 0.5) * (1.1 - modDist);
+                        density = (1.2 - modDist);
                         break;
                     }
                 }
@@ -417,7 +677,7 @@
                     currentBass = 0;
                 }
                 globalTime += dt * (0.8 + currentBass * 0.2);
-                rotationAngle += dt * (0.4 + currentBass * 0.1);
+                rotationAngle = (rotationAngle + dt * (0.4 + currentBass * 0.1)) % (Math.PI * 2);
                 let bassEffect = Math.min(currentBass, 0.5);
                 let dynamicHue = (globalTime * 15 + bassEffect * 30) % 360;
                 let rgb = hslToRgb(dynamicHue / 360, 1.0, 0.58 + bassEffect * 0.05);
