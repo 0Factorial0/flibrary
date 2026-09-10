@@ -800,7 +800,7 @@
                 } else {
                     currentBass = 0;
                 }
-                globalTime += 0.012 + currentBass * 0.01;
+                globalTime = (globalTime + 0.012 + currentBass * 0.01) % 1000;
                 rotationAngle += 0.006 + currentBass * 0.005;
                 let colorCycleSpeed = 0.02;
                 let dynamicHue = (globalTime * colorCycleSpeed * 60 + currentBass * 90) % 360;
