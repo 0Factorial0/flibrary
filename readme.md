@@ -1,1 +1,1 @@
-# My Personal Rating List of Some Bullshit
+My Personal Rating List of Some Bullshit
