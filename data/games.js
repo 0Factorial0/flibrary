@@ -1811,5 +1811,12 @@ const gamesData = [
     "type": "Indie",
     "genre": "Rogue-Like",
     "rating": "7.8"
+  },
+  {
+    "name": "Buckshot Roulette",
+    "releasedate": "2023",
+    "type": "Indie",
+    "genre": "Rogue-Like",
+    "rating": "7.5"
   }
 ];
