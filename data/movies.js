@@ -3070,5 +3070,11 @@ const moviesData = [
     "releasedate": "2016",
     "genre": "Short",
     "rating": "8.2"
+  },
+  {
+    "name": "Ali Congun: \u015eehir Eliti",
+    "releasedate": "2024",
+    "genre": "Stand-Up",
+    "rating": "7.7"
   }
 ];

@@ -1400,7 +1400,7 @@ const gamesData = [
     "rating": "7.5"
   },
   {
-    "name": "Air Strike 3D",
+    "name": "Air Strike 3D II",
     "releasedate": "2002",
     "type": "Indie",
     "genre": "Action",
@@ -1818,5 +1818,26 @@ const gamesData = [
     "type": "Indie",
     "genre": "Rogue-Like",
     "rating": "7.5"
+  },
+  {
+    "name": "Red Dead Redemption",
+    "releasedate": "2010",
+    "type": "AAA",
+    "genre": "Action-Adventure",
+    "rating": "8.8"
+  },
+  {
+    "name": "Luxor 3",
+    "releasedate": "2007",
+    "type": "Indie",
+    "genre": "Puzzle",
+    "rating": "7.8"
+  },
+  {
+    "name": "Pragmata",
+    "releasedate": "2026",
+    "type": "AAA",
+    "genre": "Metroidvania",
+    "rating": "8.8"
   }
 ];

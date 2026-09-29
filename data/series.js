@@ -1018,5 +1018,11 @@ const seriesData = [
     "releasedate": "1966",
     "genre": "Sci-Fi",
     "rating": "8.8"
+  },
+  {
+    "name": "Lucky",
+    "releasedate": "2026",
+    "genre": "Crime",
+    "rating": "7.6"
   }
 ];
