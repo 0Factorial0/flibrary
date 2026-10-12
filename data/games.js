@@ -787,42 +787,42 @@ const gamesData = [
     "name": "Halo: Combat Evolved",
     "releasedate": "2001",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "8.2"
   },
   {
     "name": "Halo 2",
     "releasedate": "2004",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "8.3"
   },
   {
     "name": "Halo 3",
     "releasedate": "2007",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "8.0"
   },
   {
     "name": "Halo 4",
     "releasedate": "2012",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "7.8"
   },
   {
     "name": "Halo: Reach",
     "releasedate": "2010",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "7.7"
   },
   {
     "name": "Halo: ODST",
     "releasedate": "2009",
     "type": "AAA",
-    "genre": "Open World",
+    "genre": "FPS",
     "rating": "7.6"
   },
   {
