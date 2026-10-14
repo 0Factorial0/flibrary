@@ -1024,5 +1024,11 @@ const seriesData = [
     "releasedate": "2026",
     "genre": "Crime",
     "rating": "7.6"
+  },
+  {
+    "name": "Altered Carbon",
+    "releasedate": "2018",
+    "genre": "Sci-Fi",
+    "rating": "8.7"
   }
 ];
